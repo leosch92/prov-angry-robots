@@ -1,0 +1,4 @@
+World Offset from (0,0)
+offset x: 0 / offset z: 0
+Screenshot Border Coordinate
+Top-left Corner: x = 170.2518
